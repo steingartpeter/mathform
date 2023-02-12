@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+.debug-console {
+  background-color: #000;
+  color: #00ffff;
+  font-family: "Courier New", Courier, monospace;
+  padding: 12px;
+  border: ridge 6px #cdcdcd;
+  box-shadow: 4px 4px 6px #404060;
+  max-width: 600px;
+}
